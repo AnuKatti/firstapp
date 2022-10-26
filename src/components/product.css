@@ -1,0 +1,19 @@
+.main{
+    width:90%;
+    margin-left: 10%;
+    display:inline-block;
+}
+
+.card{
+    width: 25%;
+    margin: 2%;
+    height:380px;
+    padding-left: 2px;
+    box-shadow: 5px 10px 15px gray;
+    float:left;
+}
+
+.card > img{
+    height:150px;
+    width:100%;
+}
